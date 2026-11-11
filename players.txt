@@ -1,0 +1,5 @@
+Messi 10 9.5
+Ronaldo 7 8.8
+Neymar 11 7.9
+Mbappe 9 9.2
+Haaland 9 8.6
